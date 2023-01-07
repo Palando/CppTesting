@@ -4,4 +4,5 @@ vulkan-headers/1.3.236.0
 [options]
 
 [generators]
-premake
+cmake_find_package
+cmake_paths
